@@ -13,3 +13,6 @@
    - [ ] advanced
    - [ ] expert
  * Length:
+ 
+ * Venue (I am able to host meetups at the CIC@CET, but other venues might be possible if you would like to use somewhere else)
+  * Availability
